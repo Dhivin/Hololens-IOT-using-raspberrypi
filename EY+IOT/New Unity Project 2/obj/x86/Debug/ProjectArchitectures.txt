@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\Ey Project\EY+IOT\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\HP\Desktop\Ey Project\EY+IOT\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\HP\Desktop\Ey Project\EY+IOT\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\HP\Desktop\Ey Project\EY+IOT\New Unity Project 2\New Unity Project 2.csproj;x86

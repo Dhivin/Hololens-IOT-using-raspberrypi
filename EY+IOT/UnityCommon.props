@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>New Unity Project 2</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\HP\Desktop\Ey Project\EY+IOT\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\HP\Desktop\Ey Project\EY+IOT\New Unity Project 2\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
